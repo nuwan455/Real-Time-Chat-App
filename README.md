@@ -2,7 +2,6 @@
 
 A simple and responsive real-time chat application built with **Flask** and **Socket.IO**. Users can join the chat by entering a username and send messages that are broadcasted to all connected users instantly.
 
----
 
 ## 🚀 Features
 
@@ -11,7 +10,6 @@ A simple and responsive real-time chat application built with **Flask** and **So
 - 🌐 **Broadcast Messages** to all connected clients  
 - 🎨 **Clean & Responsive UI** for seamless user experience  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -19,7 +17,6 @@ A simple and responsive real-time chat application built with **Flask** and **So
 - **Frontend:** HTML, CSS, JavaScript  
 - **WebSocket:** Socket.IO  
 
----
 
 ## 📦 Installation
 
